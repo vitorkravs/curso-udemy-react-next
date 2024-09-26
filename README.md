@@ -1,1 +1,2 @@
-Iniciando Readme do meu curso
+Estudos de React - Curso Udemy
+Bem-vindo ao repositório dos meus estudos sobre React, fruto do curso que estou realizando na Udemy! Aqui você encontrará os códigos, anotações e projetos desenvolvidos durante as aulas.
